@@ -2,5 +2,5 @@
 #include "fun.h"
 
 void print_hello(){
-	std::cout << "Hello world"<< endl;
+	std::cout << "Hello world"<< std::endl;
 }
